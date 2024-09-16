@@ -10,7 +10,7 @@ function Fireball() {
   return(
   <div className='fireballContainer'>
     <img 
-      src='/fireball2.png'
+      src='/fireball/fireball2.png'
       alt="fireball"
       id="fireball"
     />
