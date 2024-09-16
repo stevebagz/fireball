@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/fireball/static/css/main.21de06aa.css",
-    "main.js": "/fireball/static/js/main.8605ba72.js",
+    "main.js": "/fireball/static/js/main.df07b325.js",
     "index.html": "/fireball/index.html",
     "main.21de06aa.css.map": "/fireball/static/css/main.21de06aa.css.map",
-    "main.8605ba72.js.map": "/fireball/static/js/main.8605ba72.js.map"
+    "main.df07b325.js.map": "/fireball/static/js/main.df07b325.js.map"
   },
   "entrypoints": [
     "static/css/main.21de06aa.css",
-    "static/js/main.8605ba72.js"
+    "static/js/main.df07b325.js"
   ]
 }
